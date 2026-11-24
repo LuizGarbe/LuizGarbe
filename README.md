@@ -202,23 +202,21 @@ A personal portfolio developed with HTML and CSS.
 
 ---
 
-<!-- ================= GITHUB STATS ================= -->
+<!-- ================= GITHUB ANALYTICS ================= -->
 
 # ◆ GITHUB ANALYTICS
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=LuizGarbe&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=LuizGarbe&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizGarbe&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizGarbe&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=LuizGarbe&theme=tokyonight&hide_border=true"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=LuizGarbe&theme=tokyonight&hide_border=true" />
 
 </div>
-
----
 
 <!-- ================= ACTIVITY ================= -->
 
