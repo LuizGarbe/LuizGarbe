@@ -214,8 +214,6 @@ A personal portfolio developed with HTML and CSS.
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=LuizGarbe&theme=tokyonight&hide_border=true" />
-
 </div>
 
 <!-- ================= ACTIVITY ================= -->
