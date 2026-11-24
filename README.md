@@ -258,7 +258,7 @@ I'm always interested in learning, exchanging ideas and exploring new technologi
 
 <div align="center">
 
-### `luizgarbe@dev:~$`
+### `luizgarbe@dev`
 
 `Building • Learning • Automating • Innovating`
 
